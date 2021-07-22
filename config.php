@@ -1,0 +1,6 @@
+<?php
+    define('TWITTER_CONSUMER_KEY', 'UoCpwt4zKi3k2iJAUCEBQwVs5');
+    define('TWITTER_CONSUMER_SECRET', 'r1LEWi0gz1DfUkoez02csbH5j2ZVsDRvGEc2XHnHqC81jYsAdz');
+    define('TWITTER_ACCESS_TOKEN', '1414604666193825792-H9wb5ZgyqaHRk4iqbUejmUwC9gHj0v');
+    define('TWITTER_ACCESS_TOKEN_SECRET', '7VzGHBmQsD7aPodmDkq4oIzf4m0Py40nMmF3cXS4myq5i');
+?>
